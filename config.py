@@ -4,7 +4,7 @@ NAME = 'WMR_DB_2023'
 DB_USER = 'postgres'
 DB_PASSWORD= 'Miba#12345'
 DB_HOST= 'localhost'
-PORT= '5432'
+PORT= ''
 
 
 
